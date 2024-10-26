@@ -1,0 +1,2 @@
+reservation_id,client_name,client_phone,reservation_date,reservation_time,number_of_people,table_id,status
+1729954822,Jean Dupont,0487123456,2024-10-28,19:30,2,5,Confirmed
